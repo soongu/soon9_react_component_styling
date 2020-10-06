@@ -42,3 +42,25 @@ loader: require.resolve('sass-loader'),
             prependData: `@import 'utils';`
         }
 ```
+
+## classnames 라이브러리
+- `yarn add classnames` 로 설치.
+- 아래와 같이 사용.
+```javascript
+import React from 'react';
+import classNames from 'classnames/bind';
+import styles from './CSSModule.module.css';
+
+const cx = classNames.bind(styles);
+
+const CssModule = () => {
+    return (
+        // <div className={`${styles.wrapper} ${styles.inverted}`}>
+        <div className={cx('wrapper', 'inverted')}>
+            안녕하세요, 저는 <span className="something">CSS Module!</span>
+        </div>
+    );
+};
+
+export default CssModule;
+```
