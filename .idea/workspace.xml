@@ -1,12 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c8ed2a59-00a4-42b9-aedc-74e944197596" name="Default Changelist" comment="">
+    <list default="true" id="c8ed2a59-00a4-42b9-aedc-74e944197596" name="Default Changelist" comment="[20.10.06] #1. idea관련 커밋 By Soon9">
+      <change afterPath="$PROJECT_DIR$/config/env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/getHttpsConfig.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/jest/cssTransform.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/jest/fileTransform.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/modules.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/paths.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/pnpTs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/webpackDevServer.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/build.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/start.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/test.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SassComponent.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/SassComponent.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/utils.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/utils.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +44,9 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -53,12 +67,32 @@
       <option name="presentableId" value="Default" />
       <updated>1601964241465</updated>
       <workItem from="1601964242498" duration="87000" />
-      <workItem from="1601964339614" duration="1839000" />
+      <workItem from="1601964339614" duration="4566000" />
     </task>
+    <task id="LOCAL-00001" summary="[20.10.06] Initial commit By Soon9">
+      <created>1601966250193</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601966250193</updated>
+    </task>
+    <task id="LOCAL-00002" summary="[20.10.06] #1. idea관련 커밋 By Soon9">
+      <created>1601966411399</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601966411399</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[20.10.06] Initial commit By Soon9" />
+    <MESSAGE value="[20.10.06] #1. idea관련 커밋 By Soon9" />
+    <option name="LAST_COMMIT_MESSAGE" value="[20.10.06] #1. idea관련 커밋 By Soon9" />
   </component>
   <component name="WindowStateProjectService">
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1601964459206">
@@ -69,6 +103,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="779" y="417" key="Github.ShareDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601966175330" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601966261732">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601966261732" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1601966164411">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
